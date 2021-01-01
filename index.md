@@ -3,7 +3,14 @@
 You can use the [editor on GitHub](https://github.com/ArjunSindhya/Brokebuilds/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Lmao i did it
-
+<html>
+  <head>
+    <meta http-equiv="refresh" content="7; url='https://www.w3docs.com'" />
+  </head>
+  <body>
+    <p>Please follow <a href="https://www.w3docs.com">this link</a>.</p>
+  </body>
+</html>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
