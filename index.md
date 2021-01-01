@@ -5,5 +5,5 @@
   <body>
     <p align="center"><h1>Greetings! Brokebuilds is moving from Wordpress to Github hosting. In case you are not redirected, Please <a href="https://brokebuilds.wordpress.com">click here</a>.</h1></p>
   </body>
-  ![Logo](/images/Logo.png)
+  ![Logo](/images/Logo512.png)
 </html>
