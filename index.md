@@ -1,44 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ArjunSindhya/Brokebuilds/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Lmao i did it
 <html>
   <head>
-    <meta http-equiv="refresh" content="7; url='https://www.w3docs.com'" />
+    <meta http-equiv="refresh" content="7; url='https://brokebuilds.wordpress.com'" />
   </head>
   <body>
-    <p>Please follow <a href="https://www.w3docs.com">this link</a>.</p>
+    <p>In case you are not redirected, Please follow <a href="https://www.w3docs.com">this link</a>.</p>
   </body>
 </html>
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArjunSindhya/Brokebuilds/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
